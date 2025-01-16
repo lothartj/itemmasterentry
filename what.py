@@ -26,7 +26,7 @@ import pyautogui
 PATH = ('C:/msedgedriver.exe')
 driver = webdriver.Edge(PATH)
 driver.get(
-    'https://bc.deepcatchgroup.com/DT_BC21_SERV_UP/?company=Seapride%20Foods%20Retail')
+    'https://')
 
 
 time.sleep(2)
